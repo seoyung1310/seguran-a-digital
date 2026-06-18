@@ -1,1 +1,1 @@
-# seguran-a-digital
+# Gerador-de-senha-2026
